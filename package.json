@@ -1,0 +1,19 @@
+{
+  "name": "tape-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "dependencies": {
+    "http-hash-router": "^1.1.0",
+    "send-data": "^8.0.0"
+  }
+}
